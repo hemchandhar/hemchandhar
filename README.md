@@ -1,4 +1,6 @@
 # Hemchandhar R
 
-### Mobile Application Developer and Full Stack Developer
+### MEAN stack Developer
+
+### Flutter Mobile Application Developer
 
